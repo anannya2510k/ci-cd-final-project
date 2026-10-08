@@ -25,7 +25,7 @@ exit
 ```
 
 ## Tasks
-
+This project demonstrates CI/CD practices using GitHub Actions, Tekton, and OpenShift Pipelines.
 
 ## License
 
